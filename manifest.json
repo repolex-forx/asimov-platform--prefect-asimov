@@ -26,6 +26,23 @@
         "blob/e84586e320ee8c29eddccbc73bd443f730bebc08.nq.gz",
         "blob/056fce806d0b314ebd074d1a664a6fa90e135f89.nq.gz",
         "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz",
+      "repolex": "aggregate/repolex/6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz",
+      "dep": "dep/6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "prefect",
+          "ecosystem": "PYPI",
+          "version": "3.4",
+          "githubOrg": "PrefectHQ",
+          "githubRepo": "prefect",
+          "githubUrl": "https://github.com/PrefectHQ/prefect",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
