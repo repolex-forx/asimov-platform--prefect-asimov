@@ -28,10 +28,10 @@
         "blob/056fce806d0b314ebd074d1a664a6fa90e135f89.nq.gz"
       ],
       "ast": [
-        "aggregate/ast/6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz"
+        "aggregate/ast/6e86390a33dccc85034a406227cf5bf538c0b840"
       ],
       "lsp": "aggregate/lsp/6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz",
-      "repolex": "aggregate/repolex/6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz",
+      "repolex": "aggregate/repolex/6e86390a33dccc85034a406227cf5bf538c0b840",
       "dep": "dep/6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz",
       "dependencies": [
         {
