@@ -36,6 +36,17 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 
 ```
 .
+├── aggregate
+│   ├── ast
+│   │   ├── 6e86390a33dccc85034a406227cf5bf538c0b840
+│   │   │   └── chunk-001.nq.gz
+│   │   └── 6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz
+│   ├── lsp
+│   │   └── 6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz
+│   └── repolex
+│       ├── 6e86390a33dccc85034a406227cf5bf538c0b840
+│       │   └── chunk-001.nq.gz
+│       └── 6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz
 ├── blob
 │   ├── 0109f34f01d439968a5632a111cd1f1780a9ea6b.nq.gz
 │   ├── 056fce806d0b314ebd074d1a664a6fa90e135f89.nq.gz
@@ -58,6 +69,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz
 ├── filetree
 │   └── 6e86390a33dccc85034a406227cf5bf538c0b840.nq.gz
 ├── pr
@@ -65,7 +78,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-7 directories, 22 files
+14 directories, 28 files
 ```
 
 | Directory | What it contains |
@@ -85,4 +98,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [asimov-platform/prefect-asimov](https://github.com/asimov-platform/prefect-asimov)
 
 ---
-*Parsed on 2026-04-03 by [repolex](https://repolex.ai)*
+*Parsed on 2026-04-15 by [repolex](https://repolex.ai)*
